@@ -4,7 +4,7 @@
 <img src="./assets/banner.svg" alt="Danny Carrera — Information Systems Engineer" width="100%"/>
 
 <a href="https://github.com/CarreraDanny">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=Information+Systems+Engineer;Ingeniero+en+Sistemas+de+Informaci%C3%B3n;Web+Development+%26+Cybersecurity;Desarrollo+Web+y+Ciberseguridad;Angular+%C2%B7+Spring+Boot+%C2%B7+Flask+%C2%B7+Node.js" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=Information+Systems+Engineer;Ingeniero+en+Sistemas+de+Informaci%C3%B3n;Software+Development+%26+Cybersecurity;Desarrollo+Web+y+Ciberseguridad;Angular+%C2%B7+Spring+Boot+%C2%B7+Flask+%C2%B7+Node.js" alt="Typing SVG"/>
 </a>
 
 <p>
