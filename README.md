@@ -1,10 +1,10 @@
 <!-- ============================  HEADER  ============================ -->
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Danny Carrera — Information Systems Engineer" width="100%"/>
+<img src="./assets/banner.svg" alt="Danny Carrera — Software Developer" width="100%"/>
 
 <a href="https://github.com/CarreraDanny">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=Information+Systems+Engineer;Ingeniero+en+Sistemas+de+Informaci%C3%B3n;Software+Development+%26+Cybersecurity;Desarrollo+Web+y+Ciberseguridad;Angular+%C2%B7+Spring+Boot+%C2%B7+Flask+%C2%B7+Node.js" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=Software+Developer;Desarrollador+de+Software;Information+Systems+Engineer;Ingeniero+en+Sistemas+de+Informaci%C3%B3n;Software+Development+%26+Cybersecurity;Desarrollo+de+Software+y+Ciberseguridad;Angular+%C2%B7+Spring+Boot+%C2%B7+Flask+%C2%B7+Node.js" alt="Typing SVG"/>
 </a>
 
 <p>
@@ -14,9 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=CarreraDanny&style=for-the-badge&color=0ea5e9&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<p>🇬🇧 <i>"Information Systems Engineer with a focus on web development and cybersecurity fundamentals. Passionate about programming, automation, and lifelong learning."</i></p>
+<p>🇬🇧 <i>"Software Developer and Information Systems Engineer with a focus on software development and cybersecurity fundamentals. Passionate about programming, automation, and lifelong learning."</i></p>
 
-<p>🇪🇸 <i>"Ingeniero en Sistemas de Información con enfoque en desarrollo web y fundamentos de ciberseguridad. Apasionado por la programación, la automatización y el aprendizaje continuo."</i></p>
+<p>🇪🇸 <i>"Desarrollador de Software e Ingeniero en Sistemas de Información con enfoque en desarrollo de software y fundamentos de ciberseguridad. Apasionado por la programación, la automatización y el aprendizaje continuo."</i></p>
 
 </div>
 
@@ -33,6 +33,7 @@
   <tr>
     <td valign="top">
 
+- 💻 **Software Developer** working across web, backend, distributed systems and data
 - 🔭 Building **full-stack web applications** with Angular, Spring Boot and Flask
 - 🌐 Exploring **distributed systems**: message brokers, replication and consistency models
 - 🤖 Practicing **machine learning & big data** with scikit-learn and Apache Spark
@@ -43,6 +44,7 @@
 </td>
     <td valign="top">
 
+- 💻 **Desarrollador de Software** en web, backend, sistemas distribuidos y datos
 - 🔭 Desarrollo **aplicaciones web full-stack** con Angular, Spring Boot y Flask
 - 🌐 Exploro **sistemas distribuidos**: brokers de mensajes, replicación y modelos de consistencia
 - 🤖 Practico **machine learning y big data** con scikit-learn y Apache Spark
@@ -58,7 +60,7 @@
 
 | 🎓 Profession · Profesión | 🏛️ University · Universidad | 📍 Location · Ubicación | 🧭 Focus · Enfoque |
 |:--:|:--:|:--:|:--:|
-| Information Systems Engineer<br/>Ingeniero en Sistemas de Información | Pontificia Universidad<br/>Católica del Ecuador | Pamplona, Spain<br/>Pamplona, España | Web Dev · Cybersecurity<br/>Desarrollo Web · Ciberseguridad |
+| Software Developer<br/>Desarrollador de Software<br/>Information Systems Engineer<br/>Ingeniero en Sistemas de Información | Pontificia Universidad<br/>Católica del Ecuador | Pamplona, Spain<br/>Pamplona, España | Software Dev · Cybersecurity<br/>Desarrollo de Software · Ciberseguridad |
 
 </div>
 

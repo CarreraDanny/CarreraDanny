@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Danny Carrera — Information Systems Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Danny Carrera — Software Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
@@ -45,8 +45,8 @@
   <g class="sans">
     <text class="fade d1" x="64" y="122" font-size="62" font-weight="800" fill="#f8fafc" letter-spacing="-1">Danny Carrera</text>
     <rect class="fade d1" x="66" y="142" width="120" height="5" rx="2.5" fill="url(#accent)"/>
-    <text class="fade d2" x="64" y="190" font-size="22" font-weight="600" fill="#cbd5e1">Information Systems Engineer</text>
-    <text class="fade d2" x="64" y="222" font-size="18" fill="#94a3b8">Web Development · Cybersecurity · Automation</text>
+    <text class="fade d2" x="64" y="190" font-size="22" font-weight="600" fill="#cbd5e1">Software Developer · Information Systems Engineer</text>
+    <text class="fade d2" x="64" y="222" font-size="18" fill="#94a3b8">Software Development · Cybersecurity · Automation</text>
 
     <g class="fade d3" transform="translate(64 254)">
       <circle cx="7" cy="9" r="6" fill="none" stroke="#22d3ee" stroke-width="2"/>
@@ -79,8 +79,8 @@
 
     <g class="mono" font-size="15">
       <text x="704" y="142"><tspan fill="#c084fc">class</tspan><tspan fill="#f8fafc"> Danny</tspan><tspan fill="#94a3b8">:</tspan></text>
-      <text x="704" y="174"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;role&#160;&#160;&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"Information Systems Engineer"</tspan></text>
-      <text x="704" y="202"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;builds&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"web apps, distributed systems"</tspan></text>
+      <text x="704" y="174"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;role&#160;&#160;&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"Software Developer"</tspan></text>
+      <text x="704" y="202"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;builds&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"software &amp; distributed systems"</tspan></text>
       <text x="704" y="230"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;learns&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"cybersecurity, ML, big data"</tspan></text>
       <text x="704" y="258"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;based&#160;&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"Pamplona, ES"</tspan></text>
       <rect class="cursor" x="704" y="272" width="9" height="17" fill="#22d3ee"/>
