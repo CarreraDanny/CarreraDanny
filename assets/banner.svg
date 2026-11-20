@@ -51,7 +51,7 @@
     <g class="fade d3" transform="translate(64 254)">
       <circle cx="7" cy="9" r="6" fill="none" stroke="#22d3ee" stroke-width="2"/>
       <circle cx="7" cy="9" r="2" fill="#22d3ee"/>
-      <text x="22" y="15" font-size="16" fill="#94a3b8">Pamplona, Spain</text>
+      <text x="22" y="15" font-size="16" fill="#94a3b8">Spain</text>
     </g>
 
     <g class="fade d4" font-size="14" font-weight="700" text-anchor="middle">
@@ -82,7 +82,7 @@
       <text x="704" y="174"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;role&#160;&#160;&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"Software Developer"</tspan></text>
       <text x="704" y="202"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;builds&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"software &amp; distributed systems"</tspan></text>
       <text x="704" y="230"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;learns&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"cybersecurity, ML, big data"</tspan></text>
-      <text x="704" y="258"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;based&#160;&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"Pamplona, ES"</tspan></text>
+      <text x="704" y="258"><tspan fill="#7dd3fc">&#160;&#160;&#160;&#160;based&#160;&#160;</tspan><tspan fill="#94a3b8">= </tspan><tspan fill="#86efac">"Spain"</tspan></text>
       <rect class="cursor" x="704" y="272" width="9" height="17" fill="#22d3ee"/>
     </g>
   </g>
